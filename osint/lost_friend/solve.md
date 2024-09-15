@@ -11,17 +11,17 @@ The more relevant store of the road are the Bata and the RBL Bank.
 Let's analyze all the Bata and RBL Bank locations across the country. Three states remain interesting: Bangalore, Chennai, and Bombay.
 Once all the Bata stores are targeted on the map:
 
-![Bata Stores Map](https://github.com/SecuritIIE/ctf2024/raw/main/final/osint/lost_friend/Solution/image1.png)
+![Bata Stores Map](./Solution/image1.png)
 
 We need to find every RBL bank next to them.
 
-![RBL Banks Map](https://github.com/SecuritIIE/ctf2024/raw/main/final/osint/lost_friend/Solution/image2.png)
+![RBL Banks Map](./Solution/image2.png)
 
 ## 3. Exact Location
 
 Only one place gathers these two markets next to one another: **282 Bharathi Salai, Chennai, Tamil Nadu**.
 
-![Exact Location](https://github.com/SecuritIIE/ctf2024/raw/main/final/osint/lost_friend/Solution/image3.png)
+![Exact Location](./Solution/image3.png)
 
 Finally, you need to activate street view to have the exact position by copying the Latitude-Longitude part in the URL !
 
