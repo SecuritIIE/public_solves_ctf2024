@@ -1,1 +1,1 @@
-# public_solves_ctf2024
+# Solves for the FSIIEC CTF 2024
