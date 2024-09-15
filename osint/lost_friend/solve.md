@@ -15,13 +15,13 @@ Once all the Bata stores are targeted on the map:
 
 We need to find every RBL bank next to them.
 
-![RBL Banks Map](https://github.com/SecuritIIE/ctf2024/raw/main/final/osint/lost_friend/Solution/image2.png)
+![RBL Banks Map](./Solution/image2.png)
 
 ## 3. Exact Location
 
 Only one place gathers these two markets next to one another: **282 Bharathi Salai, Chennai, Tamil Nadu**.
 
-![Exact Location](https://github.com/SecuritIIE/ctf2024/raw/main/final/osint/lost_friend/Solution/image3.png)
+![Exact Location](./Solution/image3.png)
 
 Finally, you need to activate street view to have the exact position by copying the Latitude-Longitude part in the URL !
 
