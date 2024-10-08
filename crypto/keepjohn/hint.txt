@@ -1,0 +1,16 @@
+Hint 1 : John The Ripper can crack hashes of weak password and even recover hashes of password of some databases for instances. 
+You can install john with:
+
+---------------------------------------------
+git clone https://github.com/openwall/john
+
+cd john/src
+
+./configure --enable-keepass
+
+make -s 
+
+sudo make install
+---------------------------------------------
+
+Hint 2 : Well the password doesn't seems to be in the rockyou file, maybe try some variations of them...

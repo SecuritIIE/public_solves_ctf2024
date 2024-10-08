@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  ssh_server:
+    build: .
+    read_only: true
+    ports:
+      - "1340:22"
+    volumes:
+      - ./data:/data

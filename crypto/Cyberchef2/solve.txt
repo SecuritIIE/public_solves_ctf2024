@@ -1,0 +1,2 @@
+Cyberchef From Base64 and Xor with "FSIIECTF" to get the key "superkey"
+Then you just use the Xor with "superkey"

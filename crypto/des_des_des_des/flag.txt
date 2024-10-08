@@ -1,0 +1,1 @@
+FLAG = b"FSIIECTF{20f414947ece3d264ccc44aa4f8a7f13}"

@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  ssh_server:
+    build: .
+    ports:
+      - "1343:1343"
+    volumes:
+      - ./data:/data

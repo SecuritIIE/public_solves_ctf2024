@@ -1,0 +1,12 @@
+First get the hash of the database password:
+keepass2john Datab.kdbx > Keepasshash.txt
+
+
+Then crack it with rockyou and the option --rules:
+john Keepasshash.txt --format=Keepass --wordlist=rockyoutop1000.txt --rules
+
+
+You get the password "beautiful11" and then you open the database with it:
+keepassxc Datab.kdbx
+
+The flag is inside :)

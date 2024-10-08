@@ -1,0 +1,15 @@
+The message uses the Vigenere cypher, it also requires a key : 
+https://www.dcode.fr/chiffre-vigenere
+
+At the end, we are told that the key is "to be as sneaky as possible",
+so we decrypt the given message with the Vigenere encryption and we provide the key: TOBEASSNEAKYASPOSSIBLE
+We obtain :
+
+Alright listen, I think that I found the password to our boss laptop, 
+it was an MD five encrypted string that i managed to crack,
+his password is : vigenere is cool
+hash that and you will get the flag
+
+The md5 hash of "vigenere is cool" is : 380d86b70b921192ddee7bd8c5bfbcb2
+
+Thus, the flag is : FSIIECTF{380d86b70b921192ddee7bd8c5bfbcb2}
